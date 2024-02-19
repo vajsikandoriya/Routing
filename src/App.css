@@ -1,0 +1,20 @@
+.navbar-nav .nav-item .nav-link {
+  text-transform: uppercase;
+  margin: 0 20px;
+  text-decoration: none;
+  color: #000;
+}
+.navbar-nav {
+  margin: 0;
+  padding: 20px 0;
+}
+.navbar-nav .nav-item {
+  list-style: none;
+}
+.pagebody {
+  padding: 20px;
+  display: flex;
+  height: 500px;
+  align-items: center;
+  justify-content: center;
+}
